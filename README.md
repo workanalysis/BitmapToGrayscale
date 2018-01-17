@@ -2,7 +2,7 @@
 simple short algorithm to convert bitmap image to grayscale image using python
 <br>
 <br>
-This repository contains workplace folder which contains test:
+This repository contains workplace folder which contains:
 <ul>
   <li>test.py</li>
   <li>7 test images</li>
