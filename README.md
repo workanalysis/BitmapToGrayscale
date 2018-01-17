@@ -16,7 +16,7 @@ This repository contains workplace folder which contains test:
   <li>Open python IDLE and run the script by simply by using the command mentioned at the end of test.py</li>
 </ol><br>
 <br>
-<b>Programming language used:</b> python
-<b>Libraries used:</b> numpy,openCV
+<b>Programming language used:</b> python<br>
+<b>Libraries used:</b> numpy,openCV<br>
 <b>Date:</b> January 17,2018
 
